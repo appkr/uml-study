@@ -11,6 +11,10 @@
 
 반면, 여기서는 UML에 익숙해 지는 것이 목적이므료, 구현 결과물을 보고 1) 클래스 다이어그램, ~~2) 시퀀스 다이어그램, 3) 액티비티 다이어그램~~을 그려 봅니다.
 
+### Class Diagram Basic
+
+[https://docs.google.com/presentation/d/1Cca__bRZPYkjKzkztRtWKtjKsk-Uy-Gogc8vAQX5Tdg/edit?usp=sharing](https://docs.google.com/presentation/d/1Cca__bRZPYkjKzkztRtWKtjKsk-Uy-Gogc8vAQX5Tdg/edit?usp=sharing)
+
 ### Java dev env setup
 
 ```bash
